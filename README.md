@@ -4,7 +4,7 @@ An AI-powered web application for analyzing Previous Year Question Papers (PYQs)
 
 ---
 
-🚀 Step 6 — Install Required Packages
+🚀 — Install Required Packages
 
 Open the Terminal in GitHub Codespaces.
 
@@ -22,7 +22,7 @@ You should see the installed Streamlit version.
 
 ---
 
-▶️ Step 7 — Run the Application
+▶️ — Run the Application
 
 In the Codespaces terminal, run:
 
@@ -40,7 +40,7 @@ Open the application in your browser.
 
 ---
 
-📄 Step 8 — Test PDF Upload
+📄 — Test PDF Upload
 
 Open the Streamlit application.
 
